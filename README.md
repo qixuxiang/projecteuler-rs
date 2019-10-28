@@ -1,2 +1,2 @@
 # projecteuler-rs
-rust with projecteuler(https://projecteuler.ne)
+rust with projecteuler(https://projecteuler.net)
